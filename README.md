@@ -30,8 +30,8 @@ Go to church, study and take care of my wife and baby on the way
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barricca&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barricca&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barricca&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barricca&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
