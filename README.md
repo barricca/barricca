@@ -20,6 +20,13 @@ As a developer I like to venture into paths I have never traveled before in orde
 
 </br>
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Go to church, study and take care of my wife and baby on the way
+```
+<!--END_SECTION:waka-->
+
 📈 **My GitHub Stats:**
 
 <p>
